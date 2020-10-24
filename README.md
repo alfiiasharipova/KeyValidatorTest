@@ -8,10 +8,10 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/alfiiasharipova/KeyValidatorTest/issues/1
-* https://github.com/alfiiasharipova/KeyValidatorTest/issues/2
-* https://github.com/alfiiasharipova/KeyValidatorTest/issues/3
-* https://github.com/alfiiasharipova/KeyValidatorTest/issues/4
+* [В инструкции по установке OpenJDK 11 (MacOS) 4й шаг описан не полностью](https://github.com/alfiiasharipova/KeyValidatorTest/issues/1)
+* [В инструкции по установке OpenJDK 11 (MacOS) перепутаны 5й и 6й шаг](https://github.com/alfiiasharipova/KeyValidatorTest/issues/2)
+* [При вводе некоторых валидных ключей программа возвращает FAIL](https://github.com/alfiiasharipova/KeyValidatorTest/issues/3)
+* [При вводе невалидного ключа программа возвращает OK](https://github.com/alfiiasharipova/KeyValidatorTest/issues/4)
 
 ## Описание процесса тестирования
 
